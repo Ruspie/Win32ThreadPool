@@ -18,10 +18,7 @@ void Thread::RunTask(LPTHREAD_START_ROUTINE)
 
 void Thread::CreateWorkerThread(LPTHREAD_START_ROUTINE)
 {
-	SetState(FALSE);
-	char messageBuff[256];
-	snprintf(messageBuff, sizeof(messageBuff), "Thread with Id %d has been started execute method \"%s\"\n", inThread.threadId, inThread.methodName);
-	LogController::LogPrint(messageBuff);
+
 }
 
 BOOL Thread::IsFree()
