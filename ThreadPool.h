@@ -4,7 +4,7 @@ class ThreadPool
 {
 public:
 	Thread *threads[15];
-	DWORD ThreadCount;
+	DWORD threadCount;
 	DWORD tasksCount;
 
 	ThreadPool(DWORD threadCount);
@@ -12,7 +12,8 @@ public:
 
 	void InitializePool();
 	void AssignTask(LPTHREAD_START_ROUTINE, char*);
-	DWORD SearchFreeThread();
+	int SearchFreeThread();
 	void WaitAllThreads();
+	DWORD GetTasksCount();
 };
 

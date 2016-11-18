@@ -1,5 +1,5 @@
 #include <string>
-#include "LogController.h"
+#include "Log.h"
 
 class Thread
 {
@@ -12,12 +12,12 @@ private:
 	} inThread;
 public:
 	static unsigned int __stdcall ThreadProc(in*);
-	void RunTask(LPTHREAD_START_ROUTINE);
+	void RunTask(LPTHREAD_START_ROUTINE, char*);
 	void CreateWorkerThread(LPTHREAD_START_ROUTINE);
 	BOOL IsFree();
-	void SetState(BOOL newState);
+	void SetFreeState(BOOL);
 	
-	Thread(DWORD threadId);
+	Thread(DWORD);
 	~Thread();
 };
 

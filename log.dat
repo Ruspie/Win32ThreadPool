@@ -1,0 +1,356 @@
+[Wed Nov 16 22:28:25 2016] Initialized 2 threads
+[Wed Nov 16 22:28:25 2016] Thread with id 0 was "Locked"
+[Wed Nov 16 22:28:25 2016] Thread with id 0 has been started execute method "TestMethod"
+[Wed Nov 16 22:28:25 2016] Thread with id 1 was "Locked"
+[Wed Nov 16 22:28:25 2016] Thread with id 1 has been started execute method "TestMethod1"
+[Wed Nov 16 22:28:25 2016] Assign task is faled, all thread are busy
+[Wed Nov 16 22:28:25 2016] Assign task is faled, all thread are busy
+[Wed Nov 16 22:28:29 2016] Assign task is faled, all thread are busy
+[Wed Nov 16 22:28:29 2016] Thread with id 1 has been ended execute method "TestMethod1"
+[Wed Nov 16 22:28:29 2016] Thread with id 1 was "free"
+[Wed Nov 16 22:28:31 2016] Thread with id 0 has been ended execute method "TestMethod"
+[Wed Nov 16 22:28:31 2016] Thread with id 0 was "free"
+[Wed Nov 16 22:28:31 2016] All threads are destroyed
+
+[Wed Nov 16 22:28:48 2016] Initialized 3 threads
+[Wed Nov 16 22:28:48 2016] Thread with id 0 was "Locked"
+[Wed Nov 16 22:28:48 2016] Thread with id 0 has been started execute method "TestMethod"
+[Wed Nov 16 22:28:48 2016] Thread with id 1 was "Locked"
+[Wed Nov 16 22:28:48 2016] Thread with id 1 has been started execute method "TestMethod1"
+[Wed Nov 16 22:28:48 2016] Thread with id 2 was "Locked"
+[Wed Nov 16 22:28:48 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Wed Nov 16 22:28:48 2016] Assign task is faled, all thread are busy
+[Wed Nov 16 22:28:52 2016] Assign task is faled, all thread are busy
+[Wed Nov 16 22:28:52 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Wed Nov 16 22:28:52 2016] Thread with id 1 has been ended execute method "TestMethod1"
+[Wed Nov 16 22:28:52 2016] Thread with id 2 was "free"
+[Wed Nov 16 22:28:52 2016] Thread with id 1 was "free"
+[Wed Nov 16 22:28:54 2016] Thread with id 0 has been ended execute method "TestMethod"
+[Wed Nov 16 22:28:54 2016] Thread with id 0 was "free"
+[Wed Nov 16 22:28:54 2016] All threads are destroyed
+
+[Wed Nov 16 22:52:37 2016] Initialized 3 threads
+[Wed Nov 16 22:52:37 2016] Thread with id 0 was "Locked"
+[Wed Nov 16 22:52:37 2016] Thread with id 0 has been started execute method "TestMethod"
+[Wed Nov 16 22:52:37 2016] Thread with id 1 was "Locked"
+[Wed Nov 16 22:52:37 2016] Thread with id 1 has been started execute method "TestMethod1"
+[Wed Nov 16 22:52:37 2016] Thread with id 2 was "Locked"
+[Wed Nov 16 22:52:37 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Wed Nov 16 22:52:37 2016] Assign task is faled, all thread are busy
+[Wed Nov 16 22:52:41 2016] Assign task is faled, all thread are busy
+[Wed Nov 16 22:52:41 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Wed Nov 16 22:52:41 2016] Thread with id 1 has been ended execute method "TestMethod1"
+[Wed Nov 16 22:52:41 2016] Thread with id 2 was "free"
+[Wed Nov 16 22:52:41 2016] Thread with id 1 was "free"
+[Wed Nov 16 22:52:43 2016] Thread with id 0 has been ended execute method "TestMethod"
+[Wed Nov 16 22:52:43 2016] Thread with id 0 was "free"
+[Wed Nov 16 22:52:43 2016] All threads are destroyed
+
+[Wed Nov 16 22:53:39 2016] Initialized 3 threads
+[Wed Nov 16 22:53:39 2016] Thread with id 0 was "Locked"
+[Wed Nov 16 22:53:39 2016] Thread with id 0 has been started execute method "TestMethod"
+[Wed Nov 16 22:53:39 2016] Thread with id 1 was "Locked"
+[Wed Nov 16 22:53:39 2016] Thread with id 1 has been started execute method "TestMethod1"
+[Wed Nov 16 22:53:39 2016] Thread with id 2 was "Locked"
+[Wed Nov 16 22:53:39 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Wed Nov 16 22:53:39 2016] Assign task is faled, all thread are busy
+[Wed Nov 16 22:53:41 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Wed Nov 16 22:53:41 2016] Thread with id 2 was "free"
+[Wed Nov 16 22:53:43 2016] Thread with id 1 has been ended execute method "TestMethod1"
+[Wed Nov 16 22:53:43 2016] Thread with id 1 was "free"
+[Wed Nov 16 22:53:43 2016] Thread with id 1 was "Locked"
+[Wed Nov 16 22:53:43 2016] Thread with id 1 has been started execute method "TestMethod2"
+[Wed Nov 16 22:53:45 2016] Thread with id 0 has been ended execute method "TestMethod"
+[Wed Nov 16 22:53:45 2016] Thread with id 0 was "free"
+[Wed Nov 16 22:53:45 2016] Thread with id 1 has been ended execute method "TestMethod2"
+[Wed Nov 16 22:53:45 2016] Thread with id 1 was "free"
+[Wed Nov 16 22:53:45 2016] All threads are destroyed
+
+[Thu Nov 17 00:28:51 2016] Initialized 3 threads
+[Thu Nov 17 00:28:51 2016] Thread with id 0 was "Locked"
+[Thu Nov 17 00:28:51 2016] Thread with id 0 has been started execute method "TestMethod"
+[Thu Nov 17 00:28:51 2016] Thread with id 1 was "Locked"
+[Thu Nov 17 00:28:51 2016] Thread with id 1 has been started execute method "TestMethod1"
+[Thu Nov 17 00:28:51 2016] Thread with id 2 was "Locked"
+[Thu Nov 17 00:28:51 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Thu Nov 17 00:28:51 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 00:28:53 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Thu Nov 17 00:28:53 2016] Thread with id 2 was "free"
+[Thu Nov 17 00:28:55 2016] Thread with id 2 was "Locked"
+[Thu Nov 17 00:28:55 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Thu Nov 17 00:28:55 2016] Thread with id 1 has been ended execute method "TestMethod1"
+[Thu Nov 17 00:28:55 2016] Thread with id 1 was "free"
+[Thu Nov 17 00:28:57 2016] Thread with id 0 has been ended execute method "TestMethod"
+[Thu Nov 17 00:28:57 2016] Thread with id 0 was "free"
+[Thu Nov 17 00:28:57 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Thu Nov 17 00:28:57 2016] Thread with id 2 was "free"
+[Thu Nov 17 00:29:55 2016] Initialized 3 threads
+[Thu Nov 17 00:29:55 2016] Thread with id 0 was "Locked"
+[Thu Nov 17 00:29:55 2016] Thread with id 0 has been started execute method "TestMethod"
+[Thu Nov 17 00:29:55 2016] Thread with id 1 was "Locked"
+[Thu Nov 17 00:29:55 2016] Thread with id 1 has been started execute method "TestMethod1"
+[Thu Nov 17 00:29:55 2016] Thread with id 2 was "Locked"
+[Thu Nov 17 00:29:55 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Thu Nov 17 00:29:55 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 00:29:57 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Thu Nov 17 00:29:57 2016] Thread with id 2 was "free"
+[Thu Nov 17 00:29:59 2016] Thread with id 1 has been ended execute method "TestMethod1"
+[Thu Nov 17 00:29:59 2016] Thread with id 1 was "free"
+[Thu Nov 17 00:29:59 2016] Thread with id 1 was "Locked"
+[Thu Nov 17 00:29:59 2016] Thread with id 1 has been started execute method "TestMethod2"
+[Thu Nov 17 00:30:01 2016] Thread with id 0 has been ended execute method "TestMethod"
+[Thu Nov 17 00:30:01 2016] Thread with id 0 was "free"
+[Thu Nov 17 00:30:01 2016] Thread with id 1 has been ended execute method "TestMethod2"
+[Thu Nov 17 00:30:01 2016] Thread with id 1 was "free"
+[Thu Nov 17 00:30:01 2016] All threads are destroyed
+
+[Thu Nov 17 00:32:56 2016] Initialized 3 threads
+[Thu Nov 17 03:33:16 2016] Thread with id 0 was "Locked"
+[Thu Nov 17 03:33:16 2016] Thread with id 0 has been started execute method "TestMethod"
+[Thu Nov 17 03:33:16 2016] Thread with id 1 was "Locked"
+[Thu Nov 17 03:33:16 2016] Thread with id 1 has been started execute method "TestMethod1"
+[Thu Nov 17 03:33:16 2016] Thread with id 2 was "Locked"
+[Thu Nov 17 03:33:16 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Thu Nov 17 03:33:16 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:33:18 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Thu Nov 17 03:33:18 2016] Thread with id 2 was "free"
+[Thu Nov 17 03:33:20 2016] Thread with id 1 has been ended execute method "TestMethod1"
+[Thu Nov 17 03:33:20 2016] Thread with id 1 was "free"
+[Thu Nov 17 03:33:20 2016] Thread with id 2 was "Locked"
+[Thu Nov 17 03:33:20 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Thu Nov 17 03:33:22 2016] Thread with id 0 has been ended execute method "TestMethod"
+[Thu Nov 17 03:33:22 2016] Thread with id 0 was "free"
+[Thu Nov 17 03:33:22 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Thu Nov 17 03:33:22 2016] Thread with id 2 was "free"
+[Thu Nov 17 03:33:22 2016] All threads are destroyed
+
+[Thu Nov 17 03:34:00 2016] Initialized 3 threads
+[Thu Nov 17 03:34:00 2016] Thread with id 0 was "Locked"
+[Thu Nov 17 03:34:00 2016] Thread with id 0 has been started execute method "TestMethod"
+[Thu Nov 17 03:34:00 2016] Thread with id 1 was "Locked"
+[Thu Nov 17 03:34:00 2016] Thread with id 1 has been started execute method "TestMethod1"
+[Thu Nov 17 03:34:00 2016] Thread with id 2 was "Locked"
+[Thu Nov 17 03:34:00 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Thu Nov 17 03:34:00 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:34:02 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Thu Nov 17 03:34:02 2016] Thread with id 2 was "free"
+[Thu Nov 17 03:34:04 2016] Thread with id 1 has been ended execute method "TestMethod1"
+[Thu Nov 17 03:34:04 2016] Thread with id 1 was "free"
+[Thu Nov 17 03:34:04 2016] Thread with id 1 was "Locked"
+[Thu Nov 17 03:34:04 2016] Thread with id 1 has been started execute method "TestMethod2"
+[Thu Nov 17 03:34:04 2016] Thread with id 2 was "Locked"
+[Thu Nov 17 03:34:04 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Thu Nov 17 03:34:04 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:34:04 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:34:04 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:34:06 2016] Thread with id 0 has been ended execute method "TestMethod"
+[Thu Nov 17 03:34:06 2016] Thread with id 0 was "free"
+[Thu Nov 17 03:34:06 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Thu Nov 17 03:34:06 2016] Thread with id 1 has been ended execute method "TestMethod2"
+[Thu Nov 17 03:34:06 2016] Thread with id 2 was "free"
+[Thu Nov 17 03:34:06 2016] Thread with id 1 was "free"
+[Thu Nov 17 03:34:06 2016] All threads are destroyed
+
+[Thu Nov 17 03:35:27 2016] Initialized 3 threads
+[Thu Nov 17 03:35:27 2016] Thread with id 0 was "Locked"
+[Thu Nov 17 03:35:27 2016] Thread with id 0 has been started execute method "TestMethod"
+[Thu Nov 17 03:35:27 2016] Thread with id 1 was "Locked"
+[Thu Nov 17 03:35:27 2016] Thread with id 1 has been started execute method "TestMethod1"
+[Thu Nov 17 03:35:27 2016] Thread with id 2 was "Locked"
+[Thu Nov 17 03:35:27 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Thu Nov 17 03:35:27 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:35:29 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Thu Nov 17 03:35:29 2016] Thread with id 2 was "free"
+[Thu Nov 17 03:35:31 2016] Thread with id 2 was "Locked"
+[Thu Nov 17 03:35:31 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Thu Nov 17 03:35:31 2016] Thread with id 1 has been ended execute method "TestMethod1"
+[Thu Nov 17 03:35:31 2016] Thread with id 1 was "free"
+[Thu Nov 17 03:35:31 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:35:31 2016] Thread with id 1 was "Locked"
+[Thu Nov 17 03:35:31 2016] Thread with id 1 has been started execute method "TestMethod2"
+[Thu Nov 17 03:35:31 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:35:31 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:35:31 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:35:31 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:35:31 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:35:31 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:35:31 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:35:31 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:35:31 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:35:31 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:35:33 2016] Thread with id 0 has been ended execute method "TestMethod"
+[Thu Nov 17 03:35:33 2016] Thread with id 0 was "free"
+[Thu Nov 17 03:35:33 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Thu Nov 17 03:35:33 2016] Thread with id 2 was "free"
+[Thu Nov 17 03:35:33 2016] Thread with id 1 has been ended execute method "TestMethod2"
+[Thu Nov 17 03:35:33 2016] Thread with id 1 was "free"
+[Thu Nov 17 03:35:33 2016] All threads are destroyed
+
+[Thu Nov 17 03:36:15 2016] Initialized 3 threads
+[Thu Nov 17 03:36:15 2016] Thread with id 0 was "Locked"
+[Thu Nov 17 03:36:15 2016] Thread with id 0 has been started execute method "TestMethod"
+[Thu Nov 17 03:36:15 2016] Thread with id 1 was "Locked"
+[Thu Nov 17 03:36:15 2016] Thread with id 1 has been started execute method "TestMethod1"
+[Thu Nov 17 03:36:15 2016] Thread with id 2 was "Locked"
+[Thu Nov 17 03:36:15 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Thu Nov 17 03:36:15 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:17 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Thu Nov 17 03:36:17 2016] Thread with id 2 was "free"
+[Thu Nov 17 03:36:19 2016] Thread with id 2 was "Locked"
+[Thu Nov 17 03:36:19 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Thu Nov 17 03:36:19 2016] Thread with id 1 has been ended execute method "TestMethod1"
+[Thu Nov 17 03:36:19 2016] Thread with id 1 was "free"
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Thread with id 1 was "Locked"
+[Thu Nov 17 03:36:19 2016] Thread with id 1 has been started execute method "TestMethod2"
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:19 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:36:21 2016] Thread with id 0 has been ended execute method "TestMethod"
+[Thu Nov 17 03:36:21 2016] Thread with id 0 was "free"
+[Thu Nov 17 03:36:21 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Thu Nov 17 03:36:21 2016] Thread with id 2 was "free"
+[Thu Nov 17 03:36:21 2016] Thread with id 1 has been ended execute method "TestMethod2"
+[Thu Nov 17 03:36:21 2016] Thread with id 1 was "free"
+[Thu Nov 17 03:36:21 2016] All threads are destroyed
+
+[Thu Nov 17 03:37:07 2016] Initialized 3 threads
+[Thu Nov 17 03:37:07 2016] Thread with id 0 was "Locked"
+[Thu Nov 17 03:37:07 2016] Thread with id 0 has been started execute method "TestMethod"
+[Thu Nov 17 03:37:07 2016] Thread with id 1 was "Locked"
+[Thu Nov 17 03:37:07 2016] Thread with id 1 has been started execute method "TestMethod1"
+[Thu Nov 17 03:37:07 2016] Thread with id 2 was "Locked"
+[Thu Nov 17 03:37:07 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Thu Nov 17 03:37:07 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:37:09 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Thu Nov 17 03:37:09 2016] Thread with id 2 was "free"
+[Thu Nov 17 03:37:11 2016] Thread with id 2 was "Locked"
+[Thu Nov 17 03:37:11 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Thu Nov 17 03:37:11 2016] Thread with id 1 has been ended execute method "TestMethod1"
+[Thu Nov 17 03:37:11 2016] Thread with id 1 was "free"
+[Thu Nov 17 03:37:11 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:37:11 2016] Thread with id 1 was "Locked"
+[Thu Nov 17 03:37:11 2016] Thread with id 1 has been started execute method "TestMethod2"
+[Thu Nov 17 03:37:11 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:37:13 2016] Assign task is faled, all thread are busy
+[Thu Nov 17 03:37:13 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Thu Nov 17 03:37:13 2016] Thread with id 0 has been ended execute method "TestMethod"
+[Thu Nov 17 03:37:13 2016] Thread with id 2 was "free"
+[Thu Nov 17 03:37:13 2016] Thread with id 1 has been ended execute method "TestMethod2"
+[Thu Nov 17 03:37:13 2016] Thread with id 0 was "free"
+[Thu Nov 17 03:37:13 2016] Thread with id 1 was "free"
+[Thu Nov 17 03:37:13 2016] All threads are destroyed
+
+[Thu Nov 17 10:43:09 2016] Initialized 3 threads
+[Thu Nov 17 10:43:09 2016] Thread with id 0 was "Locked"
+[Thu Nov 17 10:43:09 2016] Thread with id 0 has been started execute method "TestMethod"
+[Thu Nov 17 10:43:09 2016] Thread with id 1 was "Locked"
+[Thu Nov 17 10:43:09 2016] Thread with id 1 has been started execute method "TestMethod1"
+[Thu Nov 17 10:43:09 2016] Thread with id 2 was "Locked"
+[Thu Nov 17 10:43:09 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Thu Nov 17 10:43:09 2016] Assign task is failed, all thread are busy
+[Thu Nov 17 10:43:11 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Thu Nov 17 10:43:11 2016] Thread with id 2 was "free"
+[Thu Nov 17 10:43:13 2016] Thread with id 1 has been ended execute method "TestMethod1"
+[Thu Nov 17 10:43:13 2016] Thread with id 1 was "free"
+[Thu Nov 17 10:43:13 2016] Thread with id 1 was "Locked"
+[Thu Nov 17 10:43:13 2016] Thread with id 1 has been started execute method "TestMethod2"
+[Thu Nov 17 10:43:13 2016] Thread with id 2 was "Locked"
+[Thu Nov 17 10:43:13 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Thu Nov 17 10:43:13 2016] Assign task is failed, all thread are busy
+[Thu Nov 17 10:43:13 2016] Assign task is failed, all thread are busy
+[Thu Nov 17 10:43:15 2016] Assign task is failed, all thread are busy
+[Thu Nov 17 10:43:15 2016] Thread with id 0 has been ended execute method "TestMethod"
+[Thu Nov 17 10:43:15 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Thu Nov 17 10:43:15 2016] Thread with id 1 has been ended execute method "TestMethod2"
+[Thu Nov 17 10:43:15 2016] Thread with id 0 was "free"
+[Thu Nov 17 10:43:15 2016] Thread with id 2 was "free"
+[Thu Nov 17 10:43:15 2016] Thread with id 1 was "free"
+[Thu Nov 17 10:43:15 2016] All threads are destroyed
+
+[Thu Nov 17 10:43:51 2016] Initialized 3 threads
+[Thu Nov 17 10:43:51 2016] Thread with id 0 was "Locked"
+[Thu Nov 17 10:43:51 2016] Thread with id 0 has been started execute method "TestMethod"
+[Thu Nov 17 10:43:51 2016] Thread with id 1 was "Locked"
+[Thu Nov 17 10:43:51 2016] Thread with id 1 has been started execute method "TestMethod1"
+[Thu Nov 17 10:43:51 2016] Thread with id 2 was "Locked"
+[Thu Nov 17 10:43:51 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Thu Nov 17 10:43:51 2016] Assign task is failed, all thread are busy
+[Thu Nov 17 10:43:53 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Thu Nov 17 10:43:53 2016] Thread with id 2 was "free"
+[Thu Nov 17 10:43:55 2016] Thread with id 1 has been ended execute method "TestMethod1"
+[Thu Nov 17 10:43:55 2016] Thread with id 1 was "free"
+[Thu Nov 17 10:43:55 2016] Thread with id 2 was "Locked"
+[Thu Nov 17 10:43:55 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Thu Nov 17 10:43:57 2016] Thread with id 0 has been ended execute method "TestMethod"
+[Thu Nov 17 10:43:57 2016] Thread with id 0 was "free"
+[Thu Nov 17 10:43:57 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Thu Nov 17 10:43:57 2016] Thread with id 2 was "free"
+[Thu Nov 17 10:43:57 2016] All threads are destroyed
+
+[Thu Nov 17 12:20:35 2016] Initialized 3 threads
+[Thu Nov 17 12:20:35 2016] Thread with id 0 was "Locked"
+[Thu Nov 17 12:20:35 2016] Thread with id 0 has been started execute method "TestMethod"
+[Thu Nov 17 12:20:35 2016] Thread with id 1 was "Locked"
+[Thu Nov 17 12:20:35 2016] Thread with id 1 has been started execute method "TestMethod1"
+[Thu Nov 17 12:20:35 2016] Thread with id 2 was "Locked"
+[Thu Nov 17 12:20:35 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Thu Nov 17 12:20:35 2016] Assign task is failed, all thread are busy
+[Thu Nov 17 12:20:37 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Thu Nov 17 12:20:37 2016] Thread with id 2 was "free"
+[Thu Nov 17 12:20:39 2016] Thread with id 2 was "Locked"
+[Thu Nov 17 12:20:39 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Thu Nov 17 12:20:39 2016] Thread with id 1 has been ended execute method "TestMethod1"
+[Thu Nov 17 12:20:39 2016] Thread with id 1 was "free"
+[Thu Nov 17 12:20:41 2016] Thread with id 0 has been ended execute method "TestMethod"
+[Thu Nov 17 12:20:41 2016] Thread with id 0 was "free"
+[Thu Nov 17 12:20:41 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Thu Nov 17 12:20:41 2016] Thread with id 2 was "free"
+[Thu Nov 17 12:20:41 2016] All threads are destroyed
+
+[Thu Nov 17 12:29:28 2016] Initialized 3 threads
+[Thu Nov 17 12:29:28 2016] Thread with id 0 was "Locked"
+[Thu Nov 17 12:29:28 2016] Thread with id 0 has been started execute method "TestMethod"
+[Thu Nov 17 12:29:28 2016] Thread with id 1 was "Locked"
+[Thu Nov 17 12:29:28 2016] Thread with id 1 has been started execute method "TestMethod1"
+[Thu Nov 17 12:29:28 2016] Thread with id 2 was "Locked"
+[Thu Nov 17 12:29:28 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Thu Nov 17 12:29:28 2016] Assign task is failed, all thread are busy
+[Thu Nov 17 12:29:30 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Thu Nov 17 12:29:30 2016] Thread with id 2 was "free"
+[Thu Nov 17 12:29:32 2016] Thread with id 2 was "Locked"
+[Thu Nov 17 12:29:32 2016] Thread with id 2 has been started execute method "TestMethod2"
+[Thu Nov 17 12:29:32 2016] Thread with id 1 has been ended execute method "TestMethod1"
+[Thu Nov 17 12:29:32 2016] Thread with id 1 was "free"
+[Thu Nov 17 12:29:34 2016] Thread with id 0 has been ended execute method "TestMethod"
+[Thu Nov 17 12:29:34 2016] Thread with id 0 was "free"
+[Thu Nov 17 12:29:34 2016] Thread with id 2 has been ended execute method "TestMethod2"
+[Thu Nov 17 12:29:34 2016] Thread with id 2 was "free"
+[Thu Nov 17 12:29:34 2016] All threads are destroyed
+
